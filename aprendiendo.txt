@@ -1,11 +1,7 @@
-Estoy aprendiendo a usar el control de versiones
+Aprendiendo a usar el control de versiones
 
-de git, para tener un mejor control de mis proyectos
-
-y tener orden de mis archivos o proyectos
+de mis archivos o proyectos
 
 de desarrollo
 
-estoy realizando pruebas de volver al pasado sin eliminar todo lo de mi proyecto
-
-agregue un nuevo parrafo en mi html
+estoy volviendo al archivo original
