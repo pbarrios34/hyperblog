@@ -1,16 +1,13 @@
 body
 {
-    color: deeppink;
+    color: #000;
     text-align: left;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-p
-{
-    background-color: black;
-}
+
 
 #container
 {
@@ -23,4 +20,19 @@ p
 #container h1
 {
     font-size: 20px;
+}
+#cabecera
+{
+    background-color: darkblue;
+    color: #ffffff;
+    font-weight: 700;
+    height: 50px;
+    text-align: left;
+    font-size: 25px;
+}
+span
+{
+    margin-left: 15px;
+    font-weight: 200;
+    font-size: 15px;
 }
