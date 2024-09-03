@@ -5,3 +5,5 @@ de git, para tener un mejor control de mis proyectos
 y tener orden de mis archivos o proyectos
 
 de desarrollo
+
+estoy realizando pruebas de volver al pasado sin eliminar todo lo de mi proyecto
