@@ -1,5 +1,7 @@
-Aprendiendo a usar el control de versiones
+Estoy aprendiendo a usar el control de versiones
 
-de mis archivos o proyectos
+de git, para tener un mejor control de mis proyectos
+
+y tener orden de mis archivos o proyectos
 
 de desarrollo
