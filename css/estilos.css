@@ -1,8 +1,26 @@
-body{
+body
+{
     color: deeppink;
-    text-align: center;
+    text-align: left;
     font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
-p{
+p
+{
     background-color: black;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
