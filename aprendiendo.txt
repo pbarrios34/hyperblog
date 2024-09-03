@@ -7,3 +7,5 @@ y tener orden de mis archivos o proyectos
 de desarrollo
 
 estoy realizando pruebas de volver al pasado sin eliminar todo lo de mi proyecto
+
+agregue un nuevo parrafo en mi html
