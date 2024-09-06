@@ -36,3 +36,10 @@ span
     font-weight: 200;
     font-size: 15px;
 }
+#footer
+{
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    height: 2rem;
+}
