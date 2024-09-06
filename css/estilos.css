@@ -47,7 +47,7 @@ body {
 #footer
 {
     text-align: center;
-    padding: 10px;
-    background-color: grey;
-    height: 2rem;
+    padding: 0.5em;
+    background: grey;
+    color: white;
 }
